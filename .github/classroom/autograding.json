@@ -1,0 +1,74 @@
+{
+  "tests": [
+    {
+      "name": "Compilacao",
+      "setup": "",
+      "run": "javac -d bin src/App.java",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Exercicio 01 - Progressao Geometrica",
+      "setup": "",
+      "run": "bash scripts/grade.sh ex1",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 2
+    },
+    {
+      "name": "Exercicio 02 - Sequencia Decrescente",
+      "setup": "",
+      "run": "bash scripts/grade.sh ex2",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 2
+    },
+    {
+      "name": "Exercicio 03 - Vetor Dinamico",
+      "setup": "",
+      "run": "bash scripts/grade.sh ex3",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 2
+    },
+    {
+      "name": "Exercicio 04 - Sequencia Crescente com Soma",
+      "setup": "",
+      "run": "bash scripts/grade.sh ex4",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 2
+    },
+    {
+      "name": "Exercicio 05 - Matriz com Valores Incrementais",
+      "setup": "",
+      "run": "bash scripts/grade.sh ex5",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 2
+    },
+    {
+      "name": "Exercicio 06 - Operacao entre Matrizes",
+      "setup": "",
+      "run": "bash scripts/grade.sh ex6",
+      "input": "",
+      "output": "OK",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 2
+    }
+  ]
+}
